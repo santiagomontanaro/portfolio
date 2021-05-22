@@ -29,6 +29,7 @@
 - Flexbox
 - Bulma
 - Fontawesome
+- Media Query
 
 Y basado en Matt Farley
 
