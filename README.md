@@ -9,7 +9,7 @@
 
 ## Vistazo general
 
-- Mi portfolio personal para que puedan ver un resumen de lo que puedo hacer y que herramientas utilizo :)
+- Un simple y bonito portfolio personal para que puedan ver un resumen de lo que puedo hacer y que herramientas utilizo :)
 
 ### Links
 
