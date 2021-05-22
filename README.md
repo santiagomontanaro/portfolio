@@ -13,7 +13,7 @@
 
 ### Links
 
-- Live Site URL: [https://santiagomontanaro.github.io/portfolio-web-sm/]
+- Live Site URL: [https://santiagomontanaro.github.io/portfolio/]
 
 ### Screenshot
 
